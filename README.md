@@ -1,7 +1,7 @@
 <h1><p>Hi there, I'm Fred! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1></p>
 
 CEO at Meteor Software, the company behind MeteorJS and Meteor Cloud. <br />
-Software Dev since 2008.
+I work with Software Devlopment since 2008.
 
 <h3> :earth_americas: Get in touch: </h3> 
 
