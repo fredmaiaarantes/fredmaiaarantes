@@ -5,6 +5,5 @@ I work with Software Devlopment since 2008.
 
 <h3> :earth_americas: Get in touch: </h3> 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/fredmaiaarantes)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-albert-schmaiske)
+![Twitter Follow](https://img.shields.io/twitter/follow/fredmaiaarantes?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/fredmaiaarantes?style=social)
