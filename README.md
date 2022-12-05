@@ -7,4 +7,4 @@ I work with Software Devlopment since 2008.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/fredmaiaarantes)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-albert-schmaiske)
-[![Github](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/fredmaiaarantes)
+![GitHub followers](https://img.shields.io/github/followers/fredmaiaarantes?style=social)
