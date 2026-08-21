@@ -1,7 +1,6 @@
 # Hi there, I'm Frederico Maia! 👋
 
-I led [Meteor.js](https://meteor.com) and [Galaxy](https://meteor.com/cloud) as CTO, then CEO of Meteor Software (2022-2026), including the Meteor 3 release.
-Software developer since 2008. These days I'm focused on developer tools, open source, growth, and engineering teams.
+I led the team behind [Meteor.js](https://meteor.com) and [Galaxy](https://meteor.com/cloud) from 2022 to 2026, joining as Tech Lead, then CTO, then CEO. I hire, coach, and grow engineers and own delivery for remote teams. Software developer since 2008. Focused on developer tools, open source, and engineering leadership.
 
 More about me: [fredmaia.dev](https://fredmaia.dev)
 
